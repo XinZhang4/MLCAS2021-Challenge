@@ -9,6 +9,8 @@
  
  Team Name: “AA2”
  
+ Ranking: Top 5 (out of 29 participating teams)
+ 
  Team Members and Affiliations:
  
  1) “xinzhang_msu”: Dr. Xin Zhang, Assistant Professor, Department of Agricultural & Biological Engineering, Mississippi State University
