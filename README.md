@@ -13,4 +13,4 @@
  
  Team Website: https://sites.google.com/msstate.edu/xin-zhang/home 
  
- 5 min video download link: TBD
+ 5 min video link: https://drive.google.com/file/d/1orYlMmOnjj-XAXSKAOqZBL-DVmDCsudQ/view?usp=sharing 
