@@ -3,7 +3,7 @@
  
  3rd International Workshop on Machine Learning for Cyber-Agricultural Systems (MLCAS2021) (https://mlcas2021.github.io/)
  
- Team Name: “AA2”
+ Team Name: “AA2” (Top 5)
  
  Team Members and Affiliations:
  
